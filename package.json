@@ -1,0 +1,26 @@
+{
+  "name": "vape_ast_telegram_bot",
+  "version": "0.0.1",
+  "description": "бот для кости",
+  "main": "main.js",
+  "scripts": {
+    "test": "nodemon main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tebrom/vabot.git"
+  },
+  "author": "Ewower",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tebrom/vabot/issues"
+  },
+  "homepage": "https://github.com/tebrom/vabot#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
